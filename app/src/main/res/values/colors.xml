@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="emotionBackground">#FFF8E1</color> <!-- light pastel -->
+    <color name="emotionPrimary">#FFA726</color>   <!-- warm orange -->
+    <color name="emotionAccent">#FF7043</color><!-- deep orange -->
+    <color name="heartColor">#DC143C</color>
+</resources>
